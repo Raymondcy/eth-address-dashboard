@@ -1,0 +1,5 @@
+[
+    { "id": "T001", "amount": 120, "status": "success" },
+    { "id": "T002", "amount": 30, "status": "success" },
+    { "id": "T003", "amount": 200, "status": "success" }
+]
